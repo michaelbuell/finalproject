@@ -12,7 +12,7 @@ title {
     text-align: left;
 } 
 
-h1{
+h1 {
     color: #000000;
     font-size: 25;
     font-weight: bold;
@@ -28,10 +28,10 @@ h2 {
     text-align: center;
 }
 
-p {
+.p1 {
     color: #000000;
     font-size: 14;
-    text-align: left;
+    text-align: center;
     width: 50%;
     margin: auto;
 
@@ -57,6 +57,7 @@ div {
     height: 25%;
     display: block;
     margin: auto;
+    margin-top: 25px;
 }
 
  .image2 {
@@ -64,19 +65,22 @@ div {
     height: 25%;
     display: block;
     margin: auto;
+    margin-top: 25px;
 }
 
 .image3 {
-    width: 15%;
-    height: 15%;
-    margin-left: 675px;
+    width: 22%;
+    height: 22%;
+    margin-left: 625px;
     margin-right: 20px;
+    margin-top: 25px;
 }
 
 .image4 {
     width: 12.5%;
     height: 12.5%;
     margin-left: 20 px;
+    margin-top: 25px;
 }
 
 .image5 {
@@ -84,6 +88,7 @@ div {
     height: 25%;
     display: block;
     margin: auto;
+    margin-top: 25px;
 }
 
 .image6 {
@@ -91,6 +96,7 @@ div {
     height: 25%;
     display: block;
     margin: auto;
+    margin-top: 25px;
 }
 
 a {
