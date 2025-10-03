@@ -1,7 +1,7 @@
 body {
     font-family: Arial;
-    background-color: #333235;
-    border: solid 25px #4c6f92;
+    background-color: #efecf5;
+    border: solid 25px #057ffa;
 }
 
 h1{
@@ -13,7 +13,7 @@ h1{
 } 
 
 h2 {
-    color: #e3eaf6;
+    color: #000000;
     font-size: 20;
     font-weight: bold;
     width: auto;
@@ -21,7 +21,7 @@ h2 {
 }
 
 p {
-    color: #e3eaf6;
+    color: #000000;
     background-color: #333235;
     font-size: 14;
     text-align: left;
@@ -32,7 +32,7 @@ p {
 
 ul {
     font-size: 14;
-    color: #e3eaf6;
+    color: #000000;
     background-color: #717274;
     text-align: left;
     width: 45%;
