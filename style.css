@@ -37,6 +37,15 @@ h2 {
 
 }
 
+.p2 {
+    color: #000000;
+    font-size: 14;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+
+}
+
 ul {
     font-size: 14;
     color: #000000;
@@ -101,4 +110,8 @@ div {
 
 a {
     color: #ff0000;
+    text-align: center;
+    margin: auto;
+    width: auto;
+    display: block;
 }
